@@ -189,6 +189,8 @@ to myself:
 - You can use special functions like `patsubst` in Makefiles to manipulate
   text. [See this for a reference][6].
 
+
+
 ## References
 
 Useful tutorials:
@@ -200,6 +202,7 @@ Useful questions:
 
 - [Question][2]
 - [Question][3]
+- [Question][7]
 
 [1]:http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
 [2]:https://stackoverflow.com/questions/653807/determining-c-executable-name
@@ -207,3 +210,4 @@ Useful questions:
 [4]:https://stackoverflow.com/questions/4781070/how-to-insert-tab-character-when-expandtab-option-is-on-in-vim
 [5]:http://www.cs.ucr.edu/~nael/cs153/lectures/C-tutorial/makefile.html
 [6]:https://stackoverflow.com/questions/32176074/function-patsubst-in-makefile
+[7]:https://stackoverflow.com/questions/448910/what-is-the-difference-between-the-gnu-makefile-variable-assignments-a
