@@ -203,6 +203,7 @@ Useful questions:
 - [Question][2]
 - [Question][3]
 - [Question][7]
+- [Question][8]
 
 [1]:http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
 [2]:https://stackoverflow.com/questions/653807/determining-c-executable-name
@@ -211,3 +212,4 @@ Useful questions:
 [5]:http://www.cs.ucr.edu/~nael/cs153/lectures/C-tutorial/makefile.html
 [6]:https://stackoverflow.com/questions/32176074/function-patsubst-in-makefile
 [7]:https://stackoverflow.com/questions/448910/what-is-the-difference-between-the-gnu-makefile-variable-assignments-a
+[8]:https://stackoverflow.com/questions/2145590/what-is-the-purpose-of-phony-in-a-makefile?rq=1
