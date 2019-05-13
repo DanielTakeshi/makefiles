@@ -5,7 +5,7 @@ CFLAGS=-I$(IDIR)
 ODIR=obj
 LDIR =../lib
 
-LIBS := -L/usr/lib/x86_64-linux-gnu  -lpng -llapack -lblas -lboost_filesystem -lboost_system -lboost_thread -lgomp
+LIBS := -L/usr/lib/x86_64-linux-gnu  -llapack -lblas -lboost_filesystem -lboost_system -lboost_thread
 
 _DEPS = hellomake.h
 DEPS = $(patsubst %,$(IDIR)/%,$(_DEPS))
